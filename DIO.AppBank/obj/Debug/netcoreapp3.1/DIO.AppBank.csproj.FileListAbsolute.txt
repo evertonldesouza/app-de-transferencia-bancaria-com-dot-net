@@ -1,0 +1,13 @@
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\bin\Debug\netcoreapp3.1\DIO.AppBank.exe
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\bin\Debug\netcoreapp3.1\DIO.AppBank.deps.json
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\bin\Debug\netcoreapp3.1\DIO.AppBank.runtimeconfig.json
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\bin\Debug\netcoreapp3.1\DIO.AppBank.runtimeconfig.dev.json
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\bin\Debug\netcoreapp3.1\DIO.AppBank.dll
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\bin\Debug\netcoreapp3.1\DIO.AppBank.pdb
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.csprojAssemblyReference.cache
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.AssemblyInfo.cs
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.dll
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.pdb
+C:\Users\Toshiba\Downloads\Cursos de Programação\DIO\.NET Fundamentals\Projeto de Transferencia Bancaria\DIO.AppBank\obj\Debug\netcoreapp3.1\DIO.AppBank.genruntimeconfig.cache
